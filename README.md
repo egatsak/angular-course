@@ -1,6 +1,8 @@
 # MininCrash
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+[deploy link](https://angular-minin-products.netlify.app/)
+
+This Very First Project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
 
